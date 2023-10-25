@@ -1,0 +1,14 @@
+C:\Users\stafe\source\repos\Pipe\Pipe\bin\Debug\net7.0\Pipe.exe
+C:\Users\stafe\source\repos\Pipe\Pipe\bin\Debug\net7.0\Pipe.deps.json
+C:\Users\stafe\source\repos\Pipe\Pipe\bin\Debug\net7.0\Pipe.runtimeconfig.json
+C:\Users\stafe\source\repos\Pipe\Pipe\bin\Debug\net7.0\Pipe.dll
+C:\Users\stafe\source\repos\Pipe\Pipe\bin\Debug\net7.0\Pipe.pdb
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.AssemblyInfoInputs.cache
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.AssemblyInfo.cs
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.csproj.CoreCompileInputs.cache
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.dll
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\refint\Pipe.dll
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.pdb
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\Pipe.genruntimeconfig.cache
+C:\Users\stafe\source\repos\Pipe\Pipe\obj\Debug\net7.0\ref\Pipe.dll
